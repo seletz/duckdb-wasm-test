@@ -799,6 +799,7 @@ __metadata:
     vite: "npm:^5.0.0"
     vue: "npm:^3.3.8"
     vue-tsc: "npm:^1.8.22"
+    vue3-table-lite: "npm:^1.3.9"
   languageName: unknown
   linkType: soft
 
@@ -1808,7 +1809,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vue@npm:^3.3.8":
+"vue3-table-lite@npm:^1.3.9":
+  version: 1.3.9
+  resolution: "vue3-table-lite@npm:1.3.9"
+  dependencies:
+    vue: "npm:^3.0.0"
+  checksum: ecb6e8580bac2a3b25472560f769409572b49468e56a59a8d03560f5fab923d3d66095d206b21857688ade5f7d627c7d0287c460c11b1bf17be7167b7bcbb2db
+  languageName: node
+  linkType: hard
+
+"vue@npm:^3.0.0, vue@npm:^3.3.8":
   version: 3.3.10
   resolution: "vue@npm:3.3.10"
   dependencies:
