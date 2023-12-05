@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@duckdb/duckdb-wasm": "^1.28.0",
     "vue": "^3.3.8"
   },
   "devDependencies": {
